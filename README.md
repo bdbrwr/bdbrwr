@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Bart and I've always "scripted" some stuff to help make my life easier. 
+You'll either see me making tools that help to build tools, or more likely, tools that'll fit into gaming. 
+
+I've always had the possibility to translate between business and IT, now I can actually build some of my own stuff. 
+
 <!--
 **bdbrwr/bdbrwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
